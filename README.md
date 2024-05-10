@@ -36,7 +36,7 @@ Names = ["Lalisa", "Rose"]
 puts names[0,1]
 ```
 
-* 配列の追加
+* 配列の値の追加
 ``` sample.rb
 a = [42, 8, 17]
 a.push(6)      # 6を配列に追加する
